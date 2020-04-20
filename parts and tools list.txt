@@ -1,0 +1,8 @@
+ESP32 dev board
+Mifare RC522 RF IC Card sensor board
+Yl-44 Buzzer board
+LEDs 3 pcs, red, yelow, green
+Resistors 100Om
+micro USB cable
+USB power supply
+some wires and solder iron
